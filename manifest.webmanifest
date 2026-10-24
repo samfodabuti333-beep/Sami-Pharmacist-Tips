@@ -1,0 +1,10 @@
+{
+  "name": "Sami Pharmacist Academy Volume 1",
+  "short_name": "Sami Pharmacy",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f7f7",
+  "theme_color": "#0f766e",
+  "description": "Offline pharmacy MCQ practice and explanations.",
+  "icons": []
+}
